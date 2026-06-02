@@ -8,6 +8,8 @@ Pon a prueba tu memoria encontrando todas las cartas pares.
 
 https://poke-memory-andresvilla.netlify.app/
 
+<img width="1631" height="890" alt="image" src="https://github.com/user-attachments/assets/3ee5866c-0363-497d-8008-143bf4bc85ad" />
+
 ## 🕹️ ¿Cómo jugar?
 
 - Se muestran 18 cartas boca abajo
