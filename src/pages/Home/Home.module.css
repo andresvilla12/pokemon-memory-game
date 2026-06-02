@@ -1,0 +1,19 @@
+.Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.Container2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+@media (min-width: 640px) { 
+  .Container {
+    height: 100vh;
+  }
+}

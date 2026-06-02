@@ -1,0 +1,16 @@
+import { FaGithub } from 'react-icons/fa'
+import styles from './Header.module.css'
+
+export default function Header () {
+  return (
+    <div className={styles.Header}>
+      <div className={styles.TitleContainer}>
+        <div className={styles.Title}>Poke Memory</div>
+        <img src='https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif' alt='logo-randress' className={styles.Charizard} />
+      </div>
+      <a href='https://github.com/andresvilla12/pokemon-memory-game' target='__blank'>
+        <FaGithub className={styles.IconGitHub} />
+      </a>
+    </div>
+  )
+}

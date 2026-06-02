@@ -1,0 +1,31 @@
+.Container {
+  width: 85%;
+  margin-bottom: 30px;
+  background-color: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(100, 149, 237, 0.4);
+  border-radius: 10px;
+  padding: 30px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  place-items: center;
+  gap: 15px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+@media (min-width: 640px) { 
+  .Container {
+    width: 65%;
+  }
+}
+
+@media (min-width: 1024px) { 
+  .Container {
+    width: 45%;
+  }
+}
+
+@media (min-width: 1280px) {
+  .Container {
+    width: 45%;
+  }
+}
