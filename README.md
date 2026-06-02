@@ -1,6 +1,7 @@
 # 🎮 Poke Memory
 
-Un juego de memoria con temática Pokémon desarrollado con React.js.
+Este proyecto es Un juego de memoria con temática Pokémon desarrollado con React.js.El juego cuenta con 18 cartas boca abajo y el usuario intenta hacer coincidir pares de Pokémon, los datos de Pokémon se obtienen mediante PokeAPI.
+
 Pon a prueba tu memoria encontrando todas las cartas pares.
 
 ## 🕹️ ¿Cómo jugar?
