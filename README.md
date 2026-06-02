@@ -1,7 +1,7 @@
 # 🎮 Poke Memory
 
 Un juego de memoria con temática Pokémon desarrollado con React.js.
-Pon a prueba tu memoria encontrando todos los pares antes de que el tiempo te gane.
+Pon a prueba tu memoria encontrando todas las cartas pares.
 
 ## 🕹️ ¿Cómo jugar?
 
